@@ -1,16 +1,50 @@
-### Hi there 👋
 
-<!--
-**JaspreetRFSingh/jaspreetRfSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi there, I'm Jaspreet Singh. 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm a Software Engineer with an unprecedented love for Mathematics!
+- 🔭 I’m currently working as a Software Engineer at EPAM Systems.
+- 🌱 I’m currently learning Cloud Computing and Data Structures.
+- 👯 I’m looking to contribute in OpenSource contributions.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to teach, play tennis and watch Cricket/Football.
+
+## Skills
+### Programming Languages
+* C#
+* Java
+* Python(Beginner)
+* Javascript(Beginner)
+### Frameworks
+* Entity
+* Hibernate
+* ASP.NET (MVC)
+* Angular.js
+* Node.js
+* Selenium
+### Databases
+* MySQL
+* MS-SQL
+* Mongo DB
+### Tools and IDEs
+* Android Studio
+* Visual Studio
+* VS Code
+* Eclipse
+* IntelliJ
+### Miscellaneous
+* REST APIs
+* Calculus
+* OOPS
+* Data Structures
+* Git and Github
+
+### Connect with me:
+
+[<img align="left" alt="jaspreettweets | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jaspreetrfsingh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<img align="left" alt="Jaspreet's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jaspreetrfsingh&show_icons=true&hide_border=true" />
+
+[twitter]: https://twitter.com/jaspreettweets
+[linkedin]: https://linkedin.com/in/jaspreetrfsingh
