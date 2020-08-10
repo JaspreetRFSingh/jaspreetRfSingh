@@ -6,7 +6,7 @@
 - 🔭 I’m currently working as a Software Engineer at EPAM Systems.
 - 🌱 I’m currently learning Cloud Computing and Data Structures.
 - 👯 I’m looking to contribute in OpenSource contributions.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 Goals: Start contributing to Open Source projects.
 - ⚡ Fun fact: I love to teach, play tennis and watch Cricket/Football.
 
 ## Skills
