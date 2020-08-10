@@ -13,8 +13,8 @@
 ### Programming Languages
 * C#
 * Java
-* Python(Beginner)
-* Javascript(Beginner)
+* Python
+* Javascript
 ### Frameworks
 * Entity
 * Hibernate
