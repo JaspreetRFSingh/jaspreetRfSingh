@@ -6,7 +6,7 @@
 - 🔭 I’m currently working as a Software Engineer at EPAM Systems.
 - 🌱 I’m currently learning Enterprise Web Development and Data Structures.
 - 🥅 Goals: Start contributing to Open Source projects.
-- ⚡ Fun fact: I love to teach, play tennis and watch Cricket/Football.
+- ⚡ Fun fact: I love to teach, play tennis and watch Cricket/Football/Tennis.
 
 ## Skills
 ### Programming Languages
@@ -35,7 +35,7 @@
 * REST APIs
 * Calculus
 * OOPS
-* Data Structures
+* Data Structures and Algorithms
 * Git and Github
 
 ### Connect with me:
