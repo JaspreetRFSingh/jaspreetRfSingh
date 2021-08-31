@@ -3,7 +3,7 @@
 ## Hi there, I'm Jaspreet Singh. 👋
 
 ### I'm a Software Engineer with an unprecedented love for Mathematics!
-- 🔭 I’m currently working as a Software Engineer at EPAM Systems.
+- 🔭 I’m currently working as a Software Engineer at Apple.
 - 🌱 I’m currently learning Enterprise Web Development and Data Structures.
 - 🥅 Goals: Start contributing to Open Source projects.
 - ⚡ Fun fact: I love to teach, play tennis and watch Cricket/Football/Tennis.
