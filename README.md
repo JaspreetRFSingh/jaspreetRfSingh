@@ -46,4 +46,4 @@
 <img align="left" alt="Jaspreet's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jaspreetrfsingh&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/jaspreettweets
-[linkedin]: https://linkedin.com/in/jaspreetrfsingh
+[linkedin]: https://www.linkedin.com/in/jaspreetsinghtuli/
