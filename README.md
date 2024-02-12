@@ -12,9 +12,10 @@
 ### Programming Languages
 * C#
 * Java
-* Python
-* Javascript
+* Python (learning)
+* Javascript (Learning)
 ### Frameworks
+* Spring
 * Entity
 * Hibernate
 * ASP.NET (MVC)
@@ -37,6 +38,7 @@
 * OOPS
 * Data Structures and Algorithms
 * Git and Github
+* Design Patterns
 
 ### Connect with me:
 
